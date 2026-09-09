@@ -11,6 +11,10 @@ The system classifies tweets into:
 
 The project uses the Sentiment140 dataset and a Logistic Regression model with TF-IDF feature extraction.
 
+## 🚀 Live Demo
+
+👉 [Open the Live App](https://twitter-sentiment-analysis-sunmz7ktdu5tbnp9h8ji4y.streamlit.app/)
+
 ## 🎯 Objective
 
 To develop a machine learning system that can automatically determine whether the sentiment expressed in a tweet is positive or negative.
